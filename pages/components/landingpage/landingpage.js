@@ -2178,7 +2178,7 @@ C431.3,1830.2,378.4,1777.3,378.4,1712z" />
 					<section className="section landing-Features">
 						<Container className="text-center">
 							<h2 className="text-center fw-medium text-fixed-white">Features</h2>
-							<h4 className="fw-medium mb-2 text-fixed-white ">Features Used in Clover Review System </h4>
+							<h4 className="fw-medium mb-2 text-fixed-white ">Features Used in Spruha-JS NextJs Admin Template</h4>
 							<div className="text-start mt-5">
 								<div className="justify-content-center">
 									<div className="">
@@ -2248,9 +2248,7 @@ C431.3,1830.2,378.4,1777.3,378.4,1712z" />
 							</Row>
 							<Row className="justify-content-center">
 								<Col xl={7}>
-									<p className="fs-15 mb-5 fw-normal">Unlock the power of customer insights with Clover Review System. 
-										Our platform streamlines the collection, analysis, and utilization of reviews, 
-										providing you with actionable data to enhance your business.</p>
+									<p className="fs-15 mb-5 fw-normal">Unlock the power of customer insights with Clover Review System. Our platform streamlines the collection, analysis, and utilization of reviews, providing you with actionable data to enhance your business.</p>
 								</Col>
 							</Row>
 							<Row className="text-start">
@@ -2526,15 +2524,19 @@ C431.3,1830.2,378.4,1777.3,378.4,1712z" />
 								<h2 className="text-center fw-medium">We are here to help you</h2>
 								<Row className="justify-content-center">
 									<Col xl={9} as="p" className="wow fadeInUp text-default sub-text mb-5" data-wow-delay="0s">
-									The Clover Review System is a cutting-edge feedback management platform designed for seamless integration and advanced analytics. It features powerful tools for collecting and analyzing customer reviews, with customizable options to fit your needs. Explore our system’s key highlights to see how it can transform your review management.
+										The Spruha-JS admin template is one of the modern dashboard templates.
+										It is also a premium admin dashboard with high-end features, where users
+										can easily customize
+										or change their projects according to their choice. Please take a quick
+										look at our template highlights.
 									</Col>
 								</Row>
 								<Row className="align-items-center">
 									<Col md={12} lg={6} className="px-4">
 										<Accordion className="accordion-customicon1 accordion-primary accordions-items-seperate" defaultActiveKey="accordionFAQ01">
 											<Accordion.Item className="acc-primary" eventKey="accordionFAQ01">
-												<Accordion.Header><span className="me-3 fs-18 fw-bold">01.</span>What is Clover Review System?</Accordion.Header>
-												<Accordion.Body> Clover Review System is a platform for managing and analyzing customer feedback to improve business outcomes.
+												<Accordion.Header><span className="me-3 fs-18 fw-bold">01.</span>Can i get a free trial before purchase ?</Accordion.Header>
+												<Accordion.Body> Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure quos debitis aliquam .
 													<p className="mt-2 mb-3">
 														<span className="fw-bold">Note: </span>Please Refer support section for more information.
 													</p>
@@ -2542,8 +2544,8 @@ C431.3,1830.2,378.4,1777.3,378.4,1712z" />
 												</Accordion.Body>
 											</Accordion.Item>
 											<Accordion.Item className="acc-danger" eventKey="accordionFAQ02">
-												<Accordion.Header><span className="me-3 fs-18 fw-bold">02.</span>How does the system handle reviews?</Accordion.Header>
-												<Accordion.Body> It collects, moderates, and provides detailed analytics on customer reviews.
+												<Accordion.Header><span className="me-3 fs-18 fw-bold">02.</span>What type of files i will get after purchase ?</Accordion.Header>
+												<Accordion.Body> Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure quos debitis aliquam.
 													<p className="mt-2 mb-3">
 														<span className="fw-bold">Note: </span>Please Refer support section for more information.
 													</p>
@@ -2551,8 +2553,8 @@ C431.3,1830.2,378.4,1777.3,378.4,1712z" />
 												</Accordion.Body>
 											</Accordion.Item>
 											<Accordion.Item className="acc-success" eventKey="accordionFAQ03">
-												<Accordion.Header><span className="me-3 fs-18 fw-bold">03.</span>Can I customize the review forms?</Accordion.Header>
-												<Accordion.Body> Yes, Clover offers flexible customization options for review forms and templates.
+												<Accordion.Header><span className="me-3 fs-18 fw-bold">03.</span>What is a single Application</Accordion.Header>
+												<Accordion.Body> Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure quos debitis aliquam.
 													<p className="mt-2 mb-3">
 														<span className="fw-bold">Note: </span>Please Refer support section for more information.
 													</p>
@@ -2560,8 +2562,8 @@ C431.3,1830.2,378.4,1777.3,378.4,1712z" />
 												</Accordion.Body>
 											</Accordion.Item>
 											<Accordion.Item className="acc-secondary" eventKey="accordionFAQ04">
-												<Accordion.Header><span className="me-3 fs-18 fw-bold">04.</span>Is the system compatible with other platforms?</Accordion.Header>
-												<Accordion.Body> Yes, Clover integrates seamlessly with various platforms and services.
+												<Accordion.Header><span className="me-3 fs-18 fw-bold">04.</span>How to get future updates ?</Accordion.Header>
+												<Accordion.Body> Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure quos debitis aliquam.
 													<p className="mt-2 mb-3">
 														<span className="fw-bold">Note: </span>Please Refer support section for more information.
 													</p>
@@ -2569,8 +2571,8 @@ C431.3,1830.2,378.4,1777.3,378.4,1712z" />
 												</Accordion.Body>
 											</Accordion.Item>
 											<Accordion.Item className="acc-info" eventKey="accordionFAQ05">
-												<Accordion.Header><span className="me-3 fs-18 fw-bold">05.</span>How often is the system updated?</Accordion.Header>
-												<Accordion.Body> Clover receives lifetime updates to ensure it stays current with industry trends and technology.
+												<Accordion.Header><span className="me-3 fs-18 fw-bold">05.</span>Do you provide support ?</Accordion.Header>
+												<Accordion.Body> Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure quos debitis aliquam.
 													<p className="mt-2 mb-3">
 														<span className="fw-bold">Note: </span>Please Refer support section for more information.
 													</p>
