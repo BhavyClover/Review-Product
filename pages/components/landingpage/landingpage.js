@@ -9,7 +9,6 @@ import Seo from "../../../shared/layout-components/seo/seo";
 import { Helmet } from "react-helmet-async";
 import { ThemeChanger } from "@/shared/redux/actions";
 import { connect } from "react-redux";
-import LandingPage from '../components/landingpage/landingpage';
 
 const Landingpage = () => {
 	const [isSticky, setIsSticky] = useState(false);
