@@ -2516,22 +2516,20 @@ C431.3,1830.2,378.4,1777.3,378.4,1712z" />
 						<Container>
 							<Row>
 								<h4 className="text-center fw-medium landing-card-header">FAQ'S ?</h4>
-								<h2 className="text-center fw-medium">We are here to help you</h2>
+								<h2 className="text-center fw-medium">What is the Clover Review System?</h2>
 								<Row className="justify-content-center">
 									<Col xl={9} as="p" className="wow fadeInUp text-default sub-text mb-5" data-wow-delay="0s">
-										The Spruha-JS admin template is one of the modern dashboard templates.
-										It is also a premium admin dashboard with high-end features, where users
-										can easily customize
-										or change their projects according to their choice. Please take a quick
-										look at our template highlights.
+									The Clover Review System is a comprehensive solution designed to help businesses gather, 
+									manage, and display customer reviews across various platforms. 
+									It offers tools to automate review requests, track feedback, and improve your online reputation.
 									</Col>
 								</Row>
 								<Row className="align-items-center">
 									<Col md={12} lg={6} className="px-4">
 										<Accordion className="accordion-customicon1 accordion-primary accordions-items-seperate" defaultActiveKey="accordionFAQ01">
 											<Accordion.Item className="acc-primary" eventKey="accordionFAQ01">
-												<Accordion.Header><span className="me-3 fs-18 fw-bold">01.</span>Can i get a free trial before purchase ?</Accordion.Header>
-												<Accordion.Body> Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure quos debitis aliquam .
+												<Accordion.Header><span className="me-3 fs-18 fw-bold">01.</span>How does the Clover Review System collect reviews?</Accordion.Header>
+												<Accordion.Body> It sends automated review requests via email or SMS to customers.
 													<p className="mt-2 mb-3">
 														<span className="fw-bold">Note: </span>Please Refer support section for more information.
 													</p>
@@ -2539,8 +2537,8 @@ C431.3,1830.2,378.4,1777.3,378.4,1712z" />
 												</Accordion.Body>
 											</Accordion.Item>
 											<Accordion.Item className="acc-danger" eventKey="accordionFAQ02">
-												<Accordion.Header><span className="me-3 fs-18 fw-bold">02.</span>What type of files i will get after purchase ?</Accordion.Header>
-												<Accordion.Body> Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure quos debitis aliquam.
+												<Accordion.Header><span className="me-3 fs-18 fw-bold">02.</span>Can I customize the review requests sent to my customers?</Accordion.Header>
+												<Accordion.Body> Yes, you can fully customize the review request templates.
 													<p className="mt-2 mb-3">
 														<span className="fw-bold">Note: </span>Please Refer support section for more information.
 													</p>
@@ -2548,8 +2546,8 @@ C431.3,1830.2,378.4,1777.3,378.4,1712z" />
 												</Accordion.Body>
 											</Accordion.Item>
 											<Accordion.Item className="acc-success" eventKey="accordionFAQ03">
-												<Accordion.Header><span className="me-3 fs-18 fw-bold">03.</span>What is a single Application</Accordion.Header>
-												<Accordion.Body> Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure quos debitis aliquam.
+												<Accordion.Header><span className="me-3 fs-18 fw-bold">03.</span>What platforms does the Clover Review System integrate with?</Accordion.Header>
+												<Accordion.Body> It integrates with platforms like Google, Facebook, and Yelp.
 													<p className="mt-2 mb-3">
 														<span className="fw-bold">Note: </span>Please Refer support section for more information.
 													</p>
@@ -2557,8 +2555,8 @@ C431.3,1830.2,378.4,1777.3,378.4,1712z" />
 												</Accordion.Body>
 											</Accordion.Item>
 											<Accordion.Item className="acc-secondary" eventKey="accordionFAQ04">
-												<Accordion.Header><span className="me-3 fs-18 fw-bold">04.</span>How to get future updates ?</Accordion.Header>
-												<Accordion.Body> Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure quos debitis aliquam.
+												<Accordion.Header><span className="me-3 fs-18 fw-bold">04.</span>Does Clover Review System provide analytics for my reviews?</Accordion.Header>
+												<Accordion.Body> Yes, it offers detailed review analytics and insights.
 													<p className="mt-2 mb-3">
 														<span className="fw-bold">Note: </span>Please Refer support section for more information.
 													</p>
@@ -2566,8 +2564,8 @@ C431.3,1830.2,378.4,1777.3,378.4,1712z" />
 												</Accordion.Body>
 											</Accordion.Item>
 											<Accordion.Item className="acc-info" eventKey="accordionFAQ05">
-												<Accordion.Header><span className="me-3 fs-18 fw-bold">05.</span>Do you provide support ?</Accordion.Header>
-												<Accordion.Body> Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure quos debitis aliquam.
+												<Accordion.Header><span className="me-3 fs-18 fw-bold">05.</span>Can I respond to reviews directly from the Clover Review System?</Accordion.Header>
+												<Accordion.Body> Yes, you can manage and respond to reviews from the platform.
 													<p className="mt-2 mb-3">
 														<span className="fw-bold">Note: </span>Please Refer support section for more information.
 													</p>
