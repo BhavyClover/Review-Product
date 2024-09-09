@@ -12,7 +12,7 @@ const Home = () => {
 
   return (
     <>
-      <Seo title="Redirecting" />
+      {/* <Seo title="Redirecting" /> */}
       <div className="page main-signin-wrapper">
         <p>Redirecting to landing page...</p>
       </div>
