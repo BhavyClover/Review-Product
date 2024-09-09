@@ -5,7 +5,7 @@ const Seo = ({ title }) => {
 	//let i = `Review System - ${title}`;
 	return (
 		<Head>
-			<title>{i}</title>
+			{/* <title>{i}</title> */}
 			<link href={favicon.src} rel="icon"></link>
 			<meta name="description" content="Review System" />
 			<meta name="author" content="Reivew system" />
