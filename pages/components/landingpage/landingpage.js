@@ -9,6 +9,7 @@ import Seo from "../../../shared/layout-components/seo/seo";
 import { Helmet } from "react-helmet-async";
 import { ThemeChanger } from "@/shared/redux/actions";
 import { connect } from "react-redux";
+import LandingPage from '../components/landingpage/landingpage';
 
 const Landingpage = () => {
 	const [isSticky, setIsSticky] = useState(false);
@@ -2259,28 +2260,25 @@ C431.3,1830.2,378.4,1777.3,378.4,1712z" />
 										<Col xl={6}>
 											<Accordion className="accordion-customicon1 accordion-primary accordions-items-seperate" defaultActiveKey="accordionFAQ1">
 												<Accordion.Item className="acc-primary" eventKey="accordionFAQ1">
-													<Accordion.Header>Switch Easily From Vertical to Horizontal Menu</Accordion.Header>
+													<Accordion.Header>Multi-Platform Integration</Accordion.Header>
 													<Accordion.Body>
-														The Spruha–JS NextJs Bootstrap Admin & Dashboard Template is available in both vertical and horizontal menus.
-														Both menus are managed by single assets. Where users can easily switch from vertical to horizontal menus.
+													Easily connect and manage reviews across multiple platforms. Ensure seamless synchronization of feedback data from diverse sources.
 														<p className="mt-2 mb-3"> <span className="fw-bold">Note: </span>Please Refer full Documentation for more details. </p>
 														<Link href="#!" className="btn btn-outline-primary fs-13">Click here</Link>
 													</Accordion.Body>
 												</Accordion.Item>
 												<Accordion.Item className="acc-secondary" eventKey="accordionFAQ2">
-													<Accordion.Header> Switch Easily From LTR to RTL Version</Accordion.Header>
+													<Accordion.Header> Customizable Templates</Accordion.Header>
 													<Accordion.Body>
-														The Spruha–JS NextJs Bootstrap Admin & Dashboard Template is available in LTR & RTL versions with single assets.
-														Using those single assets, it’s very easy to switch from one version to another version.
+													Clover review forms and email templates to match your brand. Create a personalized experience for your customers with ease.
 														<p className="mt-2 mb-3"> <span className="fw-bold">Note: </span>Please Refer full Documentation for more details. </p>
 														<Link href="#!" className="btn btn-outline-secondary fs-13">Click here</Link>
 													</Accordion.Body>
 												</Accordion.Item>
 												<Accordion.Item className="acc-success" eventKey="accordionFAQ3">
-													<Accordion.Header>Switch Easily From One Color to Another Color style</Accordion.Header>
+													<Accordion.Header>Advanced Analytics</Accordion.Header>
 													<Accordion.Body>
-														The Spruha–JS NextJs Bootstrap Admin & Dashboard Template is available in different types of color styles.
-														Where the users can change their template completely with those color styles.
+													Get detailed insights into customer feedback and satisfaction levels. Make data-driven decisions to improve your service and products.
 														<p className="mt-2 mb-3"> <span className="fw-bold">Note: </span>Please Refer full Documentation for more details. </p>
 														<Link href="#!" className="btn btn-outline-success fs-13">Click here</Link>
 													</Accordion.Body>
@@ -2290,19 +2288,17 @@ C431.3,1830.2,378.4,1777.3,378.4,1712z" />
 										<Col xl={6}>
 											<Accordion className="accordion-customicon1 accordion-primary accordions-items-seperate" defaultActiveKey="accordionFAQ6">
 												<Accordion.Item className="acc-info" eventKey="accordionFAQ4">
-													<Accordion.Header>Switch Easily From Full Width to Boxed Layout</Accordion.Header>
+													<Accordion.Header>Automated Review Requests</Accordion.Header>
 													<Accordion.Body>
-														The Spruha–JS NextJs Bootstrap Admin & Dashboard Template is also available in two different types of layouts
-														“Full Width” and “Boxed” Layouts. So that user can switch their dashboard from one layout to another layout effortlessly.
+													Set up automatic review request triggers based on customer interactions. Increase review engagement without manual follow-ups.
 														<p className="mt-2 mb-3"> <span className="fw-bold">Note: </span>Please Refer full Documentation for more details. </p>
 														<Link href="#!" className="btn btn-outline-info fs-13">Click here</Link>
 													</Accordion.Body>
 												</Accordion.Item>
 												<Accordion.Item className="acc-danger" eventKey="accordionFAQ5">
-													<Accordion.Header>Change Easily Side Menu Styles</Accordion.Header>
+													<Accordion.Header>Seamless Integration with Popular Tools</Accordion.Header>
 													<Accordion.Body>
-														The Spruha–JS NextJs Bootstrap Admin & Dashboard Template is also available in different types of Side Menu Styles.
-														Where the users can change their Side Menu styles by using single assets.
+													Connect with CRM, email marketing, and social media platforms effortlessly. Manage reviews alongside your existing workflow.
 														<p className="mt-2 mb-3"> <span className="fw-bold">Note: </span>Please Refer full Documentation for more details. </p>
 														<Link href="#!" className="btn btn-outline-danger fs-13">Click here</Link>
 													</Accordion.Body>
@@ -3099,7 +3095,7 @@ C431.3,1830.2,378.4,1777.3,378.4,1712z" />
 									<hr className="mb-0" />
 									<footer className="main-footer px-0 text-center">
 										<Row>
-											<Col md={12} sm={12}> Copyright © <span id="year">{new Date().getFullYear()}</span> <Link href="#!">cloveritservices</Link>.
+											<Col md={12} sm={12}> Copyright © <span id="year">{new Date().getFullYear()}</span> <Link href="#!">cloveritservices pvt ltd </Link>.
 											{/* Designed with <span className="fa fa-heart text-danger">
 											</span> by <Link href="#!"> Spruko </Link>  */}
 											All rights reserved.</Col>
