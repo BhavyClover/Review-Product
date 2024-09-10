@@ -7,7 +7,8 @@ output: "export", // Comment this line when not building the project
 	swcMinify: true,
 	basePath: isProd ? "" : undefined,
 	assetPrefix : isProd ? "" : undefined,
-	images: {
+	trailingSlash: true,
+  images: {
 		loader: "imgix",
 		path: "/",
 	},
